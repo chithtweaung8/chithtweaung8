@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/MRTV-4.png"group-title="IPTV Channel ",MRTV-4
+http://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png"group-title="IPTV Channel ",Channel-7
+http://ppradio.b-cdn.net/LiveApp/streams/GZ7f8XBrt4dI1677679357590.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest?cb=20191211065314"group-title="IPTV Channel ", Maharbordi 
+http://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocoonet/logopedia/images/8/8b/Mahar_bawdi_TV.png/revision/latest?cb=20191211065314"group-title="IPTV Channel ", MRTV
+https://video-weaver.syd02.hls.ttvnw.net/v1/playlist/CrkF4BKrYX2Z0lPfhR52kJApcUoYwYCS-vvT7FdadOM4or5JIl4KkiIn1W8y7EJwXQ7z3hx88Za_EXg8shtQk-D7RdmnZOpRPpqfLTutuB5KWmxUtYpkmztoXWrtJRksv_LOkolTKfN3VxTTrk3rq8TCeSZNvrn1mu6JroPUQIkbl1Fvwq0N4V_CcsMuy4Eex6wx3EX-vtxuKHnLmW049Hsy55RRiU-MB8KLZwKChDdxtVHrxAFfr9hf3fkNoI6Kt9Lw_CL4iTyGvcR25pRyIVFlw-04A8KthUWtW85ohYpDlTIXlIQNth_eGDwb4YAS7qU-Xn3aiaaR7QL3XMiyqvkEwHcs9f7kNG_vpK_Lo7MaP0kPK07W4wCWvbAZK0S0B9lpljbmY8EjOr9ieBSjp11ChLnv_CiU76GKQpuyQNfG__QqRy_FCCY9mpFsp-02vDO8mUJtaz6i9U8VEA5ksDyV7PbJi8FtuF5JPrpcp8i2pBteAHH4Hp0gTjxGl9Dg2iUN99RFr1qTE1_6CaxMiGhLOVIjv0qPZsLhRuYlM1vPJAiuhTcgzhwxKndOshe4OHIhp8q6NKeYl0fZvKtpr3ZrZa2B84bOvjeBFbcHprMk0NsAlyKsJEEJ5wC7G0lp_DVlHt3x72XqnOJNNNiGHWTToC8pI1O6LSGnxwi0wA-lI3F6L1tPAgzWx2TRWQOH3YgT_GN2z8GgCXPfnIphq2o3LvNhWkthWpFZ6r2YZcMpkCQINngN8SyYdg-Ovqm14CQIt5ExJMuxuoj4DAyADBqN2tHWs_2tQbkWYjkfW0chWnv7i8MI8OKxJxVKrQFQUYJ4F_MP5_oCREK1roSF6bsPpM1peqLezcsDkoCc-R-bHqpG5RxP47PdfdCxylB5MFzcc_4YQ1MQyEDThnLYkeXs_2uviJ3onpEnehoMzYzr9kH87aA2vPbgIAEqCXVzLXdlc3QtMjC9CA.m3u8
